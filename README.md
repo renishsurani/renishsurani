@@ -15,5 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/renishsurani/count.svg" />
+</p>
+
 ## Github Stats
 ![Renish's GitHub stats](https://github-readme-stats.vercel.app/api?username=renishsurani&show_icons=true&theme=radical)
