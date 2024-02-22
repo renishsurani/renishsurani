@@ -21,12 +21,10 @@ Here are some ideas to get you started:
 </p>
 
 ## Github Stats
-![Renish's GitHub stats](https://github-readme-stats.vercel.app/api?username=renishsurani&show_icons=true&theme=radical)
+![Renish's GitHub stats](https://github-readme-stats.vercel.app/api?username=renishsurani&show_icons=true&theme=vision-friendly-dark&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renishsurani&hide=html,css&theme=vision-friendly-dark&count_private=true&line_height=40)
 
 </p>
-
-![Renish's GitHub stats](https://github-readme-stats.vercel.app/api?username=renishsurani&count_private=true&show_icons=true&theme=vision-friendly-dark&line_height=40)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=renishsurani&hide=html,css&theme=vision-friendly-dark&count_private=true&line_height=40)
 
 <p align = "center">
   
